@@ -1,0 +1,13 @@
+.username {
+  height: 50%;
+  width: 50%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.round {
+  height: 200px;
+  width: 200px;
+}
